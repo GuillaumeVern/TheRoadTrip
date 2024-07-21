@@ -1,0 +1,6 @@
+italy = 0
+johnson = 180, scale 75 (3072)
+utah = 90
+west coast = 180
+
+utah, down = 20,120, 90 * PI / 180 on the right
